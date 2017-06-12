@@ -42,6 +42,6 @@
 
   },
   "scripts": {
-    "preinstall": "sudo apt-get install ruby-compass && sudo gem install compass"
+    "preinstall": "gem install compass"
   }
 }
